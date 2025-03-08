@@ -1,8 +1,14 @@
-<style>
-  ul.a {
-  list-style-type: circle;
-}
-</style>
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      ul.a {
+        list-style-type: circle;
+      }
+    </style>
+  </head>
+  <body>
+  
 <h1>Hi, I'm Darren! <br/><a href="https://www.linkedin.com/in/darrentrecojr/">IT Professional</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
@@ -34,3 +40,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
+</html>

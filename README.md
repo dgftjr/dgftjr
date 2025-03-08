@@ -1,24 +1,11 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <style>
-      ul.a {
-        list-style-type: circle;
-      }
-    </style>
-  </head>
-  <body>
-  
 <h1>Hi, I'm Darren! <br/><a href="https://www.linkedin.com/in/darrentrecojr/">IT Professional</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-<li><b>PowerShell</b>
-<ul class="a" dir="auto">
-<li><a href="https://github.com/dgftjr/ActiveDirectoryLab">[Active Directory Home Lab]</a> </li>
-<!-- <li></li>
-<li></li>
-<li></li> -->
-</ul>
+
+- <b>PowerShell</b>
+   - <a href="https://github.com/dgftjr/ActiveDirectoryLab">[Active Directory Home Lab]</a>
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -27,9 +14,8 @@
 [linkedin]: https://linkedin.com/in/darrentrecojr
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get me started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -40,5 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</body>
-</html>

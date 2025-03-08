@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 <ul>
-  <li>[Active Directory Home Lab] (https://github.com/dgftjr/LABURL)</li>
+  <li><a href="https://github.com/dgftjr/ActiveDirectoryLab">[Active Directory Home Lab]</a> </li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>

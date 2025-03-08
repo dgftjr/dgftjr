@@ -3,12 +3,11 @@
 <h2>👨‍💻 Projects:</h2>
 <li><b>PowerShell</b>
 <ul dir="auto">
-<li><li><a href="https://github.com/dgftjr/ActiveDirectoryLab">[Active Directory Home Lab]</a> </li></li>
+<li><a href="https://github.com/dgftjr/ActiveDirectoryLab">[Active Directory Home Lab]</a> </li>
 <!-- <li></li>
 <li></li>
-<li></li>
+<li></li> -->
 </ul>
--->
 
 <h2> 🤳 Connect with me:</h2>
 

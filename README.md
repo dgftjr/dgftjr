@@ -1,8 +1,13 @@
+<style>
+  ul.a {
+  list-style-type: circle;
+}
+</style>
 <h1>Hi, I'm Darren! <br/><a href="https://www.linkedin.com/in/darrentrecojr/">IT Professional</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 <li><b>PowerShell</b>
-<ul dir="auto">
+<ul class="a" dir="auto">
 <li><a href="https://github.com/dgftjr/ActiveDirectoryLab">[Active Directory Home Lab]</a> </li>
 <!-- <li></li>
 <li></li>

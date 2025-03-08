@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>PowerShell</b>
-   - <a href="https://github.com/dgftjr/ActiveDirectoryLab">[Active Directory Home Lab]</a>
+   - <a href="https://github.com/dgftjr/ActiveDirectoryLab">[Active Directory Home Lab: Bulk User Creation]</a>
 
 
 

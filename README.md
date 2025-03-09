@@ -4,6 +4,7 @@
 
 - <b>PowerShell</b>
    - <a href="https://github.com/dgftjr/AD_PS_bulkuser">[Active Directory Home Lab: Bulk User Creation]</a>
+   - <a href="https://github.com/dgftjr/Sentinel_Lab"> [Windows Event Log, Powershell, Azure Sentinel, Failed RDP Login Source IP to Full GeoIP Conversion</a>
 
 
 

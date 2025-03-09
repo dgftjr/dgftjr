@@ -1,4 +1,4 @@
-<h1>Hi, I'm Darren! <br/><a href="https://www.linkedin.com/in/darrentrecojr/">IT Professional</a></h1>
+<h1>Hi, I'm Darren! <br/><a href="https://www.linkedin.com/in/darrentrecojr/" target="_blank">IT Professional</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 

@@ -1,6 +1,6 @@
 <h1>Hi, I'm Darren! <br/><a href="https://www.linkedin.com/in/darrentrecojr/" target="_blank">IT Professional</a></h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Homelab Projects:</h2>
 
 - <b>PowerShell</b>
    - <a href="https://github.com/dgftjr/AD_PS_bulkuser">[Active Directory Home Lab: Bulk User Creation]</a>
